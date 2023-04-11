@@ -1,0 +1,11 @@
+﻿{
+  "Group": "Misc",
+  "FriendlyName": "xmlApi",
+  "SystemName": "XmlApi",
+  "Version": "1.00",
+  "SupportedVersions": [ "4.60" ],
+  "Author": "Onur Sedef",
+  "DisplayOrder": 1,
+  "FileName": "Nop.Plugin.XmlApi.dll",
+  "Description": "This plugin provides an endpoint for xml api."
+}
